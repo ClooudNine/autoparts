@@ -1,0 +1,8 @@
+D:\ГГПК\Практика\Autoparts\bin\Debug\Autoparts.exe.config
+D:\ГГПК\Практика\Autoparts\bin\Debug\Autoparts.exe
+D:\ГГПК\Практика\Autoparts\bin\Debug\Autoparts.pdb
+D:\ГГПК\Практика\Autoparts\obj\Debug\Autoparts.csproj.AssemblyReference.cache
+D:\ГГПК\Практика\Autoparts\obj\Debug\Autoparts.csproj.SuggestedBindingRedirects.cache
+D:\ГГПК\Практика\Autoparts\obj\Debug\Autoparts.csproj.CoreCompileInputs.cache
+D:\ГГПК\Практика\Autoparts\obj\Debug\Autoparts.exe
+D:\ГГПК\Практика\Autoparts\obj\Debug\Autoparts.pdb
